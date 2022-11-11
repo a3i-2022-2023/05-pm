@@ -134,3 +134,6 @@ dmypy.json
 .config/
 .jupyter/
 .wget-hsts
+
+# Do not sync the vegashrinker file
+data/vegashrinker.csv
